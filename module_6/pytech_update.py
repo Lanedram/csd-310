@@ -2,6 +2,7 @@
 #   cybr410 
 #   07/08/2023
 #   pytech_update.py : program to update documents in pytech collection
+#   link to github: https://github.com/Lanedram/csd-310.git
 
 #import/connect database
 from pymongo import MongoClient
